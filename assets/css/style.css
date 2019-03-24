@@ -1,0 +1,86 @@
+body {
+    background-image: url("https://wallpaper-gallery.net/images/game-of-thrones-wallpaper/game-of-thrones-wallpaper-24.jpg");
+    background-size: cover;
+
+
+}
+
+.jumbotron {
+    
+    background-image: url("http://csongradhir.hu/wp-content/uploads/2019/01/Game-Of-Thrones-Season-8-Release-Date-What.jpg");
+    background-size: cover;
+    margin: 100px;
+    height: 500px;
+    
+
+}
+
+
+
+.id {
+    height: 20px;
+    margin-bottom: 50px;
+}
+
+
+h1 { 
+    font-family: 'Cinzel', serif;
+    color:whitesmoke;
+    font-weight: 800px;
+    
+}
+
+
+ p {
+
+     color:whitesmoke;
+     font-size: 20px;
+     font-weight: 20px;
+    
+     background-image: url( "https://i.pinimg.com/originals/33/ac/a9/33aca9d6eaba136b8a49a1930b1fb8b1.gif");
+     background-size: cover;
+     
+ }
+
+.btn {
+    border: solid darkred;
+    color: darkred;
+    margin-top: 125px;
+    font-weight: 900PX;
+    font-size: 30px;
+    width: 300px;
+    height: 170px;
+    background-image: url("https://img.buzzfeed.com/buzzfeed-static/static/2017-08/7/11/asset/buzzfeed-prod-fastlane-01/anigif_sub-buzz-17839-1502118405-8.gif")
+
+}
+
+.answer,
+#timer {
+    font-weight: 900;
+    color: 
+}
+
+#start {
+	color: solid darkred;
+}
+
+.choices {
+   
+	text-align: center;
+    border: solid 2px darkblue;
+    color: turquoise;
+	border-radius: 5%;
+	margin: 30px;
+}
+
+.choices:hover {
+	background-color: teal;
+	color: white;
+}
+
+#gameScreen {
+	
+	box-shadow: 7px 5px 47px 0px darkred);
+}
+
+
